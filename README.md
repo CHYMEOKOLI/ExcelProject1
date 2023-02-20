@@ -1,2 +1,3 @@
 # ExcelProject1
-First Project as Data Analyst
+First Project
+This is my first Project as Data Analyst
